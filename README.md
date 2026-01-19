@@ -1,5 +1,5 @@
-# SkinScanNet
-Research Work: Self Supervised Network Anomaly Detection. 
+# SS-DGNN
+Research Work: Self Supervised Dynamic Graph Neural Network Anomaly Detection. 
 <table border="1">
   <tr>
     <th>Paper Title</th>
